@@ -1,0 +1,16 @@
+total 56
+drwxr-xr-x 2 neeraj neeraj 4096 Nov 24 18:18 Videos
+drwxr-xr-x 2 neeraj neeraj 4096 Nov 24 18:18 Templates
+drwxr-xr-x 2 neeraj neeraj 4096 Nov 24 18:18 Public
+drwxr-xr-x 2 neeraj neeraj 4096 Nov 24 18:18 Pictures
+drwxr-xr-x 2 neeraj neeraj 4096 Nov 24 18:18 Music
+drwxr-xr-x 2 neeraj neeraj 4096 Nov 24 18:18 Downloads
+drwxr-xr-x 2 neeraj neeraj 4096 Nov 24 18:18 Documents
+drwxr-xr-x 2 neeraj neeraj 4096 Nov 24 18:18 Desktop
+-rw-rw-r-- 1 neeraj neeraj   30 Nov 26 16:29 myInventory.txt
+-rw-rw-r-- 1 neeraj neeraj  302 Nov 29 12:10 hello.yml
+-rw-rw-r-- 1 neeraj neeraj  116 Nov 29 14:08 index.html
+-rw-rw-r-- 1 neeraj neeraj  537 Nov 29 14:53 install.yml
+-rw-rw-r-- 1 neeraj neeraj  171 Nov 29 15:46 git-install.yml
+-rw-rw-r-- 1 neeraj neeraj  188 Nov 29 16:32 loop.yml
+-rw-r--r-- 1 root   root      0 Nov 29 16:33 one.txt

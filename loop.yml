@@ -1,0 +1,12 @@
+---
+- name: looping
+  hosts: all
+  become: yes
+  
+  tasks:
+   - name: Creating files and capturing
+     shell: "{{item}}"
+     loop:
+      - "touch one.txt"
+      - "ls -lrt >one.txt"
+   
